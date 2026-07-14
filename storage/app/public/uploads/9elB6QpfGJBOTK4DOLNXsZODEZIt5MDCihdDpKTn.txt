@@ -1,0 +1,16 @@
+Tell to the requester to cancel first the shukka 
+Go to HTI STEP then table FH1003_PALLET_CD_LOG, Select * from FH1003_PALLET_CD_LOG
+WHERE CODE_NO=''''''''''''''''''''''''''''''''BAHAY''''''''''''''''''''''''''''''''
+AND HINBAN_CODE IN (
+SELECT HINBAN_CODE FROM T_DEMADO_INVOICE WHERE CDNO=''''''''''''''''''''''''''''''''bahay'''''''''''''''''''''''''''''''' and req_cd=17)
+
+then back up the data (select all data then back up to excel)
+
+then delete, Delete from FH1003_PALLET_CD_LOG
+WHERE CODE_NO=''''''''''''''''''''''''''''''''BAHAY''''''''''''''''''''''''''''''''
+AND HINBAN_CODE IN (
+SELECT HINBAN_CODE FROM T_DEMADO_INVOICE WHERE CDNO=''''''''''''''''''''''''''''''''bahay'''''''''''''''''''''''''''''''' and req_cd=17)
+
+then type COMMIT then run
+
+then tell to the requester re-create the HouseCD.

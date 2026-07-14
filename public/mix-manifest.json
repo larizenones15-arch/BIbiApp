@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/chunks/chat.js": "/js/chunks/chat.js",
+    "/js/chunks/bubble.js": "/js/chunks/bubble.js",
+    "/js/chunks/Register.js": "/js/chunks/Register.js",
+    "/js/chunks/Login.js": "/js/chunks/Login.js",
+    "/js/chunks/documents.js": "/js/chunks/documents.js",
+    "/js/chunks/Download.js": "/js/chunks/Download.js",
+    "/js/chunks/Trial.js": "/js/chunks/Trial.js",
+    "/css/app.css": "/css/app.css",
+    "/fonts/vendor/@mdi/materialdesignicons-webfont.eot?de316c4d7c49351893235ebee55a9756": "/fonts/vendor/@mdi/materialdesignicons-webfont.eot?de316c4d7c49351893235ebee55a9756",
+    "/fonts/vendor/@mdi/materialdesignicons-webfont.woff2?d5cba82059f88bfa469ecd8a0e313676": "/fonts/vendor/@mdi/materialdesignicons-webfont.woff2?d5cba82059f88bfa469ecd8a0e313676",
+    "/fonts/vendor/@mdi/materialdesignicons-webfont.woff?059ea00c378aeafc39fc680ecc5ef66b": "/fonts/vendor/@mdi/materialdesignicons-webfont.woff?059ea00c378aeafc39fc680ecc5ef66b",
+    "/fonts/vendor/@mdi/materialdesignicons-webfont.ttf?ac55aef662342c261b21af3611b5e746": "/fonts/vendor/@mdi/materialdesignicons-webfont.ttf?ac55aef662342c261b21af3611b5e746"
+}
